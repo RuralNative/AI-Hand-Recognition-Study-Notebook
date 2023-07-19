@@ -18,8 +18,5 @@
 **05 - Neural Network Training**
 * Read on to the conceptual study of how neural networks are trained
 
-**06 - Student Marks ANN**
-* Personal application of neural networks in a simple linear regression problem
-
 ## Sources
 1. *Kumaran Ponnambalam (2021)*, **Deep Learning: Getting Started** - ***LinkedIn Learning***
